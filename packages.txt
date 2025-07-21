@@ -1,0 +1,3 @@
+freeglut3-dev
+libxext-dev
+libxrender-dev
