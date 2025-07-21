@@ -1,5 +1,5 @@
-streamlit==1.35.0
-pandas==2.2.2
-plotly==5.22.0
-scikit-learn==1.4.2
-rdkit==2023.9.5
+streamlit
+pandas
+plotly
+scikit-learn
+rdkit
